@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>まんぼう</title>
+    <title>じんべいざめ</title>
 
     <link
         rel="stylesheet"
