@@ -15,7 +15,7 @@
     <header class="navbar navbar-dark bg-dark">
         <div class="container">
             <a class="navbar-brand" href="{{ url('') }}">
-                まんぼうユートピ＠
+                まんぼうユートピア
             </a>
 
             <div class="mb-4">
